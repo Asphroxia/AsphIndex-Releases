@@ -1,0 +1,8 @@
+{
+  "channel": "preview",
+  "status": "waiting-for-first-published-build",
+  "source_repository": "Asphroxia/AsphIndex",
+  "source_branch": "refactor/chatgpt-first-rust-tauri",
+  "release_tag": "preview",
+  "release_url": "https://github.com/Asphroxia/AsphIndex-Releases/releases/tag/preview"
+}
